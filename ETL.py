@@ -82,9 +82,9 @@ def load_data_to_mongodb(data, db_name='music_database', collection_name='track_
 
 
 def main():
-    metadata_path = "/home/hasnainraza/s2/send/tracks.csv"
-    directory = "/home/hasnainraza/Documents/BDA/sample"
-    output_path = "/home/hasnainraza/Documents"
+    metadata_path = "path/to/your/tracks.csv"
+    directory = "path/yo/your/music/sample"
+    output_path = "/path/to/your/ouputfile"
  
     track_metadata = load_track_ids(metadata_path)
     extracted_features = process_files_in_directory(directory, track_metadata)
