@@ -60,6 +60,9 @@ RhythmRabbit is a web-based music streaming platform equipped with a recommendat
 RhythmRabbit showcases a successful integration of advanced technologies to create a dynamic and user-centric music streaming platform. With meticulous orchestration of ETL pipeline, real-time data handling with Kafka, backend services using Flask, and a sophisticated recommendation engine powered by Spark, RhythmRabbit offers a seamless and engaging music listening experience.
 
 ## Team Members
-- **Taha Tariq** (22I-2014)
-- **Haider Akbar** (22I-1913)
-- **Hasnain Raza** (22I-1996)
+# Hasnain Raza
+- (https://www.linkedin.com/in/hasnain-raza-a35780305/)
+# Haider Akbar 
+- https://www.linkedin.com/in/muhammad-haider-1t9d1h3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+# Taha Bin Tariq 
+- https://www.linkedin.com/in/taha-bin-tariq-6b1278248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
